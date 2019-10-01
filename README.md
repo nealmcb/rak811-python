@@ -1,5 +1,5 @@
 # rak811-python
-RAK811 Python Library for use with LoRa pHAT &amp; MicroBIT Node
+RAK811 Python Library for use with [LoRa](https://en.wikipedia.org/wiki/LoRa) pHAT &amp; MicroBIT Node
 
 Currently the library is very early on in development. At the moment you will have to do the following:
 
